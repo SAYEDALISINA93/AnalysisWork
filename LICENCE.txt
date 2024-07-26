@@ -1,0 +1,1 @@
+All files belong to the University of Passau. Access is limited for the usage in the context of the "Data collection and processing on sustainable and healthy food" seminar. DO NOT DISTRIBUTE ANY DATA OUTSIDE THIS SEMINAR. You are allowed to modify and distribute the code files (sample.ipynb, user_load_util.py) as you wish.

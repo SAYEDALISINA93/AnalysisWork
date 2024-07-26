@@ -1,0 +1,280 @@
+id,question_id,category,sub_category,weight,question,choices,not_applicable_choice
+1,OCI_general_heading,OCI,"",1,Index of organic consumption intensity (OCI),{},
+2,OCI_general_description,OCI,"",1,This questionnaire is about your consumption of organic food products.,{},
+3,OCI_1,OCI,"",1,How much do you consider yourself informed about organic farming methods?,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Completely""}",
+4,OCI_2,OCI,"",1,How confident are you about the organic farming methods?,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Completely""}",
+5,OCI_3,OCI,"",1,How often do you consume organic food products?,"{""1"": ""Less than once a month"", ""2"": ""Once a month"", ""3"": ""Once a week"", ""4"": ""Several times a week"", ""5"": ""Every day""}",
+6,OCI_general_question,OCI,"",1,How important are the following motivations for buying organic products?,{},
+7,OCI_4,OCI,"",1,Healthiness,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Extremely""}",
+8,OCI_5,OCI,"",1,Better taste,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Extremely""}",
+9,OCI_6,OCI,"",1,Fresher products,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Extremely""}",
+10,OCI_7,OCI,"",1,Rigorous safety control,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Extremely""}",
+11,OCI_8,OCI,"",1,Distrust in conventional,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Extremely""}",
+12,OCI_9,OCI,"",1,Environmental protection,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Extremely""}",
+13,OCI_10,OCI,"",1,Biodiversity protection,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Extremely""}",
+14,OCI_11,OCI,"",1,Support of rural farmers,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Extremely""}",
+15,OCI_12,OCI,"",1,Modern and trendy,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Extremely""}",
+16,OCI_13,OCI,"",1,Curiosity,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Extremely""}",
+17,FSCI_general_heading,FSCI,"",1,Index of consumers' food sustainability concerns (FSCI),{},
+18,FSCI_general_description,FSCI,"",1,This questionnaire is about your consumption of sustainable food products.,{},
+19,FSCI_general_question,FSCI,"",1,How important are the following aspects when choosing food products?,{},
+20,FSCI_1,FSCI,"",1,Is obtained in an environmentally friendly way,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+21,FSCI_2,FSCI,"",1,Is produced in a way that respects biodiversity,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+22,FSCI_3,FSCI,"",1,Is grown using sustainable agricultural practices,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+23,FSCI_4,FSCI,"",1,Is produced respecting animal welfare,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+24,FSCI_5,FSCI,"",1,Is produced without the use of pesticides,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+25,FSCI_6,FSCI,"",1,Is produced with low carbon emissions,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+26,FSCI_7,FSCI,"",1,Is produced in an unspoilt environment,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+27,FSCI_8,FSCI,"",1,Is produced reducing the amount of food waste,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+28,FSCI_9,FSCI,"",1,Is packaged in an environmentally friendly way,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+29,FSCI_10,FSCI,"",1,Is locally produced to support local farmers,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+30,FSCI_11,FSCI,"",1,Is produced in respect of human rights,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+31,FSCI_12,FSCI,"",1,Is sold at a fair price for the producer,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+32,FSCI_13,FSCI,"",1,Keeps me healthy,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+33,SLI_general_heading,SLI,"",1,Index of sustainable lifestyle (SLI),{},
+34,SLI_general_description,SLI,"",1,This questionnaire is about your lifestyle.,{},
+35,SLI_general_question,SLI,"",1,Can you indicate how much the following statements reflect your lifestyle?,{},
+36,SLI_1,SLI,"",1,Whenever I can I do voluntary work.,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+37,SLI_2,SLI,"",1,I use public transport to reduce pollution.,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+38,SLI_3,SLI,"",1,I spend a lot of time outdoors.,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+39,SLI_4,SLI,"",1,I try to reduce food waste.,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+40,SLI_5,SLI,"",1,I recycle and sort waste.,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+41,FOP_general_heading,FOP,"",1,Familiarity with front-of-pack nutrition labels (FOPs),{},
+42,FOP_general_description,FOP,"",1,"This questionnaire is about your familiarity with front-of-pack labels. Some of them refer to to quality product, some to the context of the food or its packaging, and others healthiness.",{},
+43,FOP_1,FOP,"",1,How familiar are you with the `ASC` label?,"{""1"": ""Not at all familiar"", ""2"": ""Moderately familiar"", ""3"": ""Extremely familiar""}",
+44,FOP_2,FOP,"",1,How familiar are you with the `MSC` label?,"{""1"": ""Not at all familiar"", ""2"": ""Moderately familiar"", ""3"": ""Extremely familiar""}",
+45,FOP_3,FOP,"",1,How familiar are you with the `Animal-care` label?,"{""1"": ""Not at all familiar"", ""2"": ""Moderately familiar"", ""3"": ""Extremely familiar""}",
+46,FOP_4,FOP,"",1,How familiar are you with the `BIO` label?,"{""1"": ""Not at all familiar"", ""2"": ""Moderately familiar"", ""3"": ""Extremely familiar""}",
+47,FOP_5,FOP,"",1,How familiar are you with the `V-Label`?,"{""1"": ""Not at all familiar"", ""2"": ""Moderately familiar"", ""3"": ""Extremely familiar""}",
+48,FOP_6,FOP,"",1,How familiar are you with the `NUTRI-Score` label?,"{""1"": ""Not at all familiar"", ""2"": ""Moderately familiar"", ""3"": ""Extremely familiar""}",
+49,FOP_7,FOP,"",1,How familiar are you with the `EU Community` labels?,"{""1"": ""Not at all familiar"", ""2"": ""Moderately familiar"", ""3"": ""Extremely familiar""}",
+50,FOP_8,FOP,"",1,How familiar are you with the `Fairtrade` label?,"{""1"": ""Not at all familiar"", ""2"": ""Moderately familiar"", ""3"": ""Extremely familiar""}",
+51,FOP_9,FOP,"",1,How familiar are you with the `Green-dot` label?,"{""1"": ""Not at all familiar"", ""2"": ""Moderately familiar"", ""3"": ""Extremely familiar""}",
+52,FOP_10,FOP,"",1,How familiar are you with the `Single-use deposit` label?,"{""1"": ""Not at all familiar"", ""2"": ""Moderately familiar"", ""3"": ""Extremely familiar""}",
+53,FOP_11,FOP,"",1,How familiar are you with the `Blue Angel` label?,"{""1"": ""Not at all familiar"", ""2"": ""Moderately familiar"", ""3"": ""Extremely familiar""}",
+54,FOP_others,FOP,"",1,Are there other here not mentioned food labels you have seen or you are familiar with?,{},
+55,CS_general_heading,CS,"",1,Cooking skills (CS),{},
+56,CS_general_description,CS,"",1,This questionnaire is about your cooking skills.,{},
+57,CS_general_question,CS,"",1,Rate how good you are at each following skill.,{},
+58,CS_1,CS,"",1,"Chop, mix and stir foods, for example chopping vegetables, dicing an onion, cubing meat, mixing and stirring food together in a pot/ bowl.","{""1"": ""Very poor"", ""2"": ""Poor"", ""3"": ""Average"", ""4"": ""Good"", ""5"": ""Very good""}",Never/rarely do it
+59,CS_2,CS,"",1,"Blend foods to make them smooth, like soups or sauces’ (using a whisk/blender/food processor etc.)","{""1"": ""Very poor"", ""2"": ""Poor"", ""3"": ""Average"", ""4"": ""Good"", ""5"": ""Very good""}",Never/rarely do it
+60,CS_3,CS,"",1,Steam food (where the food doesn’t touch the water but gets cooked by the steam),"{""1"": ""Very poor"", ""2"": ""Poor"", ""3"": ""Average"", ""4"": ""Good"", ""5"": ""Very good""}",Never/rarely do it
+61,CS_4,CS,"",1,"Boil or simmer food (cooking it in a pan of hot, boiling/bubbling water)","{""1"": ""Very poor"", ""2"": ""Poor"", ""3"": ""Average"", ""4"": ""Good"", ""5"": ""Very good""}",Never/rarely do it
+62,CS_5,CS,"",1,"Stew food (cooking it for a long time (usually more than an hour) in a liquid or sauce at a medium heat, not boiling) e.g. beef stew","{""1"": ""Very poor"", ""2"": ""Poor"", ""3"": ""Average"", ""4"": ""Good"", ""5"": ""Very good""}",Never/rarely do it
+63,CS_6,CS,"",1,"Roast food in the oven, for example raw meat/chicken, fish, vegetables etc.","{""1"": ""Very poor"", ""2"": ""Poor"", ""3"": ""Average"", ""4"": ""Good"", ""5"": ""Very good""}",Never/rarely do it
+64,CS_7,CS,"",1,Fry/stir-fry food in a frying pan/wok with oil or fat using the hob/ gas rings/hot plates,"{""1"": ""Very poor"", ""2"": ""Poor"", ""3"": ""Average"", ""4"": ""Good"", ""5"": ""Very good""}",Never/rarely do it
+65,CS_8,CS,"",1,Microwave food (not drinks/liquid) including heating ready-meals Food Preparation Techniques,"{""1"": ""Very poor"", ""2"": ""Poor"", ""3"": ""Average"", ""4"": ""Good"", ""5"": ""Very good""}",Never/rarely do it
+66,CS_9,CS,"",1,"Bake goods such as cakes, buns, cupcakes, scones, bread etc., using basic/raw ingredients or mixes","{""1"": ""Very poor"", ""2"": ""Poor"", ""3"": ""Average"", ""4"": ""Good"", ""5"": ""Very good""}",Never/rarely do it
+67,CS_10,CS,"",1,"Peel and chop vegetables (including potatoes, carrots, onions, broccoli)","{""1"": ""Very poor"", ""2"": ""Poor"", ""3"": ""Average"", ""4"": ""Good"", ""5"": ""Very good""}",Never/rarely do it
+68,CS_11,CS,"",1,Prepare and cook raw meat/poultry,"{""1"": ""Very poor"", ""2"": ""Poor"", ""3"": ""Average"", ""4"": ""Good"", ""5"": ""Very good""}",Never/rarely do it
+69,CS_12,CS,"",1,Prepare and cook raw fish,"{""1"": ""Very poor"", ""2"": ""Poor"", ""3"": ""Average"", ""4"": ""Good"", ""5"": ""Very good""}",Never/rarely do it
+70,CS_13,CS,"",1,"Make sauces and gravy from scratch (no ready-made jars, pastes or granules)","{""1"": ""Very poor"", ""2"": ""Poor"", ""3"": ""Average"", ""4"": ""Good"", ""5"": ""Very good""}",Never/rarely do it
+71,CS_14,CS,"",1,Use herbs and spices to flavour dishes,"{""1"": ""Very poor"", ""2"": ""Poor"", ""3"": ""Average"", ""4"": ""Good"", ""5"": ""Very good""}",Never/rarely do it
+72,FS_general_heading,FS,"",1,Food skills (FS),{},
+73,FS_general_description,FS,"",1,"This questionnaire is about your food skills. Food skills are defined as a set of skills needed to provide and prepare safe, healthy and culturally familiar meals. These skills include how to buy and/or grow food, read labels, plan meals, prepare and cook food safely, store food and make recipe substitutions.",{},
+74,FS_general_question,FS,"",1,Rate how good you are at each following skill.,{},
+75,FS_1_1,FS,"",1,I plan meals ahead.,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+76,FS_1_2,FS,"",1,"If you plan meals ahead, for which time horizon?","{""1"": ""Less than a day"", ""2"": ""One day"", ""3"": ""Two days"", ""4"": ""Multiple days"", ""5"": ""A week or more""}",Not applicable
+77,FS_2,FS,"",1,"I prepare meals in advance (e.g. packed lunch, partly preparing a meal in advance).","{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+78,FS_3_1,FS,"",1,I use recipes when cooking.,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+79,FS_3_2,FS,"",1,"If you use recipes, how strictly do you follow them?","{""1"": ""Very loosely/Just inspirational"", ""2"": ""Slightly strict"", ""3"": ""Moderately strict"", ""4"": ""Very strict"", ""5"": ""Strictly/Literally""}",Not applicable
+80,FS_4_1,FS,"",1,I shop with a grocery list.,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+81,FS_4_2,FS,"",1,I stick to my shopping list/only buy whats on the list.,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",Not applicable
+82,FS_5,FS,"",1,I shop with specific meals in mind.,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+83,FS_6,FS,"",1,I plan how much food to buy.,"{""1"": ""Very poor"", ""2"": ""Poor"", ""3"": ""Average"", ""4"": ""Good"", ""5"": ""Very good""}",
+84,FS_7,FS,"",1,I compare prices before I buy food.,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+85,FS_8,FS,"",1,I know what budget I am able or willing to spend on food.,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+86,FS_9,FS,"",1,I buy food in season to save money.,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+87,FS_10,FS,"",1,"I try to buy cheeper alternatives (e.g. cheaper cut of meat, cheaper wine, ...) to save money.","{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+88,FS_11,FS,"",1,I cook more or double recipes which can be used for another meal.,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+89,FS_12,FS,"",1,I prepare or cook a meal with only few ingredients on hand.,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+90,FS_13,FS,"",1,I prepare or cook a meal with limited time.,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+91,FS_14,FS,"",1,I use leftovers to create another meal.,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+92,FS_15,FS,"",1,"I keep basic items in my cupboard for putting meals together (e.g. herbs/spices, dried/tinned goods).","{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+93,FS_16,FS,"",1,I consider the best-before date on food.,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+94,FS_17,FS,"",1,I consider the storage and use-by information on food packets.,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+95,FS_18,FS,"",1,I consider the nutrition information on the packaging when buying or using food.,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+96,FS_19,FS,"",1,I balance meals based on nutrition advice on what I think is healthy.,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Always""}",
+97,FS_20,FS,"",1,My general interest in the topic of food/nutrition can be described as:,"{""1"": ""Very low"", ""2"": ""Low"", ""3"": ""Moderate"", ""4"": ""High"", ""5"": ""Very high""}",
+98,FS_21,FS,"",1,My usage of media related to food/nutrition can be described as:,"{""1"": ""Very low"", ""2"": ""Low"", ""3"": ""Moderate"", ""4"": ""High"", ""5"": ""Very high""}",
+99,CI_general_heading,CI,"",1,Cooking identity (CI),{},
+100,CI_general_description,CI,"",1,This questionnaire is about your cooking identity.,{},
+101,CI_1,CI,"",1,I am a good cook.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Neither agree nor disagree"", ""4"": ""Agree"", ""5"": ""Strongly agree""}",
+102,CI_2,CI,"",1,Others view me as a good cook.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Neither agree nor disagree"", ""4"": ""Agree"", ""5"": ""Strongly agree""}",
+103,CI_3,CI,"",1,I am a relatively better cook than my friends/family.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Neither agree nor disagree"", ""4"": ""Agree"", ""5"": ""Strongly agree""}",
+104,CI_4,CI,"",1,I don’t consider myself to be a good cook.,"{""1"": ""Strongly agree"", ""2"": ""Agree"", ""3"": ""Neither agree nor disagree"", ""4"": ""Disagree"", ""5"": ""Strongly Disagree""}",
+105,CI_5,CI,"",1,I get a sense of satisfaction from preparing and cooking meals.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Neither agree nor disagree"", ""4"": ""Agree"", ""5"": ""Strongly agree""}",
+106,CI_6,CI,"",1,I am confident that whatever I cook will turn out well.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Neither agree nor disagree"", ""4"": ""Agree"", ""5"": ""Strongly agree""}",
+107,CI_7,CI,"",1,I can time different elements of a dish to come together on time.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Neither agree nor disagree"", ""4"": ""Agree"", ""5"": ""Strongly agree""}",
+108,FN_general_heading,FN,"",1,Food Neophilia (FN),{},
+109,FN_general_description,FN,"",1,This questionnaire is about your food neophilia.,{},
+110,FN_1,FN,"",1,I like to try new foods.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Neither agree nor disagree"", ""4"": ""Agree"", ""5"": ""Strongly agree""}",
+111,FN_2,FN,"",1,I like to try out new recipes.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Neither agree nor disagree"", ""4"": ""Agree"", ""5"": ""Strongly agree""}",
+112,FN_3,FN,"",1,I would describe myself as a foodie (I’m interested in food and seek out food experiences).,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Neither agree nor disagree"", ""4"": ""Agree"", ""5"": ""Strongly agree""}",
+113,SFS_general_heading,SFS,"",1,Subjective Food Satiety (SFS),{},
+114,SFS_general_description,SFS,"",1,This question is about your subjective food satiety.,{},
+115,SFS,SFS,"",1,How hungry have you been directly after the meal?,"{""1"": ""Very hungry"", ""2"": ""Hungry"", ""3"": ""Neither hungry nor full/satisfied"", ""4"": ""Full/satisfied"", ""5"": ""Very full/satisfied""}",
+116,E_general_heading,E,"",1,Emotions (E),{},
+117,E_general_description,E,"",1,This question is about your emotions regarding your last meal.,{},
+118,E,E,"",1,Which emotions describe your feelings regarding your last meal?,"{""1"": ""Anger"", ""2"": ""Anxiety"", ""3"": ""Boredom"", ""4"": ""Disgust"", ""5"": ""Fear"", ""6"": ""Guilt"", ""7"": ""Happiness"", ""8"": ""Interest"", ""9"": ""Pleasure"", ""10"": ""Pride"", ""11"": ""Sadness"", ""12"": ""Shame"", ""13"": ""Surprise"", ""14"": ""Sympathy"", ""15"": ""Worry"", ""16"": ""Love"", ""17"": ""Hate"", ""18"": ""Hope"", ""19"": ""Relief"", ""20"": ""Satisfaction"", ""21"": ""Regret"", ""22"": ""Jealousy"", ""23"": ""Contentment,""}",
+119,SAT_general_heading,SAT,"",1,Satisfaction (SAT),{},
+120,SAT_general_description,SAT,"",1,This question is about your satisfaction regarding your last meal.,{},
+121,SAT,SAT,"",1,How did you like it?,"{""1"": ""Not at all"", ""2"": ""Slightly"", ""3"": ""Moderately"", ""4"": ""Very"", ""5"": ""Very much""}",
+122,ENV_general_heading,ENV,"",1,Environment (ENV),{},
+123,ENV_general_description,ENV,"",1,This question is about the environment of your last meal.,{},
+124,ENV,ENV,"",1,In which environment did you eat it?,"{""1"": ""Restaurant"", ""2"": ""Home"", ""3"": ""Work"", ""4"": ""School/University"", ""5"": ""Other""}",
+125,SENV_general_heading,SENV,"",1,Social Environment (SENV),{},
+126,SENV_general_description,SENV,"",1,This question is about the social environment of your last meal.,{},
+168,DEB_EX_30,DEB,"",1,"If you see others eating, do you also have the desire to eat?","{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+127,SENV,SENV,"",1,In which social environment did you eat it?,"{""1"": ""Alone"", ""2"": ""With family"", ""3"": ""With friends"", ""4"": ""With colleagues/classmates"", ""6"": ""With a mixed group or other people"", ""7"": ""Other""}",
+128,MT_general_heading,MT,"",1,Meal Type (MT),{},
+129,MT_general_description,MT,"",1,This question is about the type of your last meal.,{},
+130,MT,MT,"",1,What was the meal type?,"{""1"": ""Breakfast"", ""2"": ""Lunch"", ""3"": ""Dinner"", ""4"": ""Snack"", ""5"": ""Other""}",
+131,CT_general_heading,CT,"",1,Cooking Type (CT),{},
+132,CT_general_description,CT,"",1,This question is about the type of your last meal.,{},
+133,CT,CT,"",1,What type of cooking describes it the best?,"{""1"": ""Self-cooked/Prepared"", ""2"": ""Pre-processed (possibly warmed up)"", ""3"": ""Bought/Take away"", ""4"": ""Other""}",No/None
+134,DIST_general_heading,DIST,"",1,Distractions (DIST),{},
+135,DIST_general_description,DIST,"",1,This question is about the distractions during your last meal.,{},
+136,DIST,DIST,"",1,Did you do any other activity while eating?,"{""1"": ""Watching TV or similar media"", ""2"": ""Listening to music"", ""3"": ""Reading"", ""4"": ""Talking"", ""5"": ""Working/Studying"", ""6"": ""Gaming"", ""7"": ""Other""}",No/None
+137,DEB_general_heading,DEB,"",1,The Dutch Eating behaviour Questionnaire (DEB),{},
+138,DEB_general_description,DEB,"",1,This questionnaire is about your eating behaviour.,{},
+139,DEB_R_1,DEB,"",1,"If you have put on weight, do you eat less than you usually do?","{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",Not relevant
+140,DEB_R_2,DEB,"",1,Do you try to eat less at mealtimes than you would like to eat?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+141,DEB_R_3,DEB,"",1,How often do you refuse food or drink offered because you are concerned about your weight?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+142,DEB_R_4,DEB,"",1,Do you watch exactly what you eat?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+143,DEB_R_5,DEB,"",1,Do you deliberately eat foods that are slimming?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+144,DEB_R_6,DEB,"",1,"When you have eaten too much, do you eat less than usual the following days?","{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",Not relevant
+145,DEB_R_7,DEB,"",1,Do you deliberately eat less in order not to become heavier?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+146,DEB_R_8,DEB,"",1,How often do you try not to eat between meals because you are watching your weight?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+147,DEB_R_9,DEB,"",1,How often in the evening do you try not to eat because you are watching your weight?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+148,DEB_R_10,DEB,"",1,Do you take into account your weight with what you eat?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+149,DEB_E_11,DEB,"",1,Do you have the desire to eat when you are irritated?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",Not relevant
+150,DEB_E_12,DEB,"",1,Do you have a desire to eat when you have nothing to do?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",Not relevant
+151,DEB_E_13,DEB,"",1,Do you have a desire to eat when you are depressed or discouraged?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",Not relevant
+152,DEB_E_14,DEB,"",1,Do you have a desire to eat when you are feeling lonely?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",Not relevant
+153,DEB_E_15,DEB,"",1,Do you have a desire to eat when somebody lets you down?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",Not relevant
+154,DEB_E_16,DEB,"",1,Do you have a desire to eat when you are cross?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",Not relevant
+155,DEB_E_17,DEB,"",1,Do you have a desire to eat when you are approaching something unpleasant to happen?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+156,DEB_E_18,DEB,"",1,"Do you get the desire to eat when you are anxious, worried or tense?","{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+157,DEB_E_19,DEB,"",1,Do you have a desire to eat when things are going against you or when things have gone wrong?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+158,DEB_E_20,DEB,"",1,Do you have a desire to eat when you are frightened?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",Not relevant
+159,DEB_E_21,DEB,"",1,Do you have a desire to eat when you are disappointed?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",Not relevant
+160,DEB_E_22,DEB,"",1,Do you have a desire to eat when you are emotionally upset?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",Not relevant
+161,DEB_E_23,DEB,"",1,Do you have a desire to eat when you are bored or restless?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",Not relevant
+162,DEB_EX_24,DEB,"",1,"If food tastes good to you, do you eat more than usual?","{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+164,DEB_EX_26,DEB,"",1,"If you see or smell something delicious, do you have a desire to eat it?","{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+165,DEB_EX_27,DEB,"",1,"If you have something delicious to eat, do you eat it straight away?","{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+166,DEB_EX_28,DEB,"",1,If you walk past the baker do you have the desire to buy something delicious?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+167,DEB_EX_29,DEB,"",1,"If you walk past a snackbar or a cafe, do you have the desire to buy something delicious?","{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+169,DEB_EX_31,DEB,"",1,Can you resist eating delicious foods?,"{""1"": ""Very often"", ""2"": ""Often"", ""3"": ""Sometimes"", ""4"": ""Seldom"", ""5"": ""Never""}",
+170,DEB_EX_32,DEB,"",1,"Do you eat more than usual, when you see others eating?","{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+171,DEB_EX_33,DEB,"",1,When preparing a meal are you inclined to eat something?,"{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
+172,SR_general_heading,SR,"",1,Sensitivity to Reward (SR),{},
+173,SR_general_description,SR,"",1,"This questionnaire is about your sensitivity to reward. In other words, how strongly you react to rewards.",{},
+174,SR_1,SR,"",1,Does the good prospect of obtaining money motivate you strongly to do some things?,"{""1"": ""Yes""}",No
+175,SR_2,SR,"",1,"Are you frequently encouraged to act by the possibility of being valued in your work, in your studies, with your friends or with your family?","{""1"": ""Yes""}",No
+176,SR_3,SR,"",1,Do you often meet people that you find physically attractive?,"{""1"": ""Yes""}",No
+177,SR_4,SR,"",1,Do you like to take some drugs because of the pleasure you get from them?,"{""1"": ""Yes""}",No
+178,SR_5,SR,"",1,Do you often do things to be praised?,"{""1"": ""Yes""}",No
+179,SR_6,SR,"",1,Do you like being the centre of attention at a party or a social meeting?,"{""1"": ""Yes""}",No
+180,SR_7,SR,"",1,Do you spend a lot of your time on obtaining a good image?,"{""1"": ""Yes""}",No
+181,SR_8,SR,"",1,Do you need people to show their affection for you all the time?,"{""1"": ""Yes""}",No
+182,SR_9,SR,"",1,"When you are in a group, do you try to make your opinions the most intelligent or the funniest?","{""1"": ""Yes""}",No
+183,SR_10,SR,"",1,Do you often take the opportunity to pick up people you find attractive?,"{""1"": ""Yes""}",No
+184,SR_11,SR,"",1,"As a child, did you do a lot of things to get people's approval?","{""1"": ""Yes""}",No
+185,SR_12,SR,"",1,"Does the possibility of social advancement, move you to action, even if this involves not playing fair?","{""1"": ""Yes""}",No
+186,SR_13,SR,"",1,Do you generally give preference to those activities that imply an immediate gain?,"{""1"": ""Yes""}",No
+187,SR_14,SR,"",1,Do you often have trouble resisting the temptation of doing forbidden things?,"{""1"": ""Yes""}",No
+188,SR_15,SR,"",1,Do you like to compete and do everything you can to win?,"{""1"": ""Yes""}",No
+189,SR_16,SR,"",1,Is it easy for you to associate tastes and smells to very pleasant events?,"{""1"": ""Yes""}",No
+190,SR_17,SR,"",1,Are there a large number of objects or sensations that remind you of pleasant events?,"{""1"": ""Yes""}",No
+191,SR_18,SR,"",1,"When you start to play with a slot machine, is it often difficult for you to stop?","{""1"": ""Yes""}",No
+192,SR_19,SR,"",1,Do you sometimes do things for quick gains?,"{""1"": ""Yes""}",No
+193,SR_20,SR,"",1,Does your attention easily stray from your work in the presence of an attractive stranger?,"{""1"": ""Yes""}",No
+194,SR_21,SR,"",1,Are you interested in money to the point of being able to do risky jobs?,"{""1"": ""Yes""}",No
+195,SR_22,SR,"",1,Do you like to put competitive ingredients in all of your activities?,"{""1"": ""Yes""}",No
+196,SR_23,SR,"",1,Would you like to be a socially powerful person?,"{""1"": ""Yes""}",No
+197,SR_24,SR,"",1,Do you like displaying your physical abilities even though this may involve danger?,"{""1"": ""Yes""}",No
+198,BAS_general_heading,BAS,"",1,Behavioural Activation (BAS),{},
+199,BAS_general_description,BAS,"",1,"This questionnaire is about your behavioural activation. In other words, to figure out what needs to be done in order to trigger a behaviour change.",{},
+200,BAS_1,BAS,"",1,"When I get something I want, I feel Excited and energized.","{""1"": ""Strongly agree"", ""2"": ""Agree"", ""3"": ""Disagree"", ""4"": ""Strongly Disagree""}",
+201,BAS_2,BAS,"",1,When I'm doing well at something; I love to keep it.,"{""1"": ""Strongly agree"", ""2"": ""Agree"", ""3"": ""Disagree"", ""4"": ""Strongly Disagree""}",
+202,BAS_3,BAS,"",1,"When good things happen to me, it affects me strongly.","{""1"": ""Strongly agree"", ""2"": ""Agree"", ""3"": ""Disagree"", ""4"": ""Strongly Disagree""}",
+203,BAS_4,BAS,"",1,It would excite me to win a contest.,"{""1"": ""Strongly agree"", ""2"": ""Agree"", ""3"": ""Disagree"", ""4"": ""Strongly Disagree""}",
+204,BAS_5,BAS,"",1,"When I see an opportunity for something I like, I get excited right away.","{""1"": ""Strongly agree"", ""2"": ""Agree"", ""3"": ""Disagree"", ""4"": ""Strongly Disagree""}",
+206,BAS_7,BAS,"",1,I go out of my way to get things I want.,"{""1"": ""Strongly agree"", ""2"": ""Agree"", ""3"": ""Disagree"", ""4"": ""Strongly Disagree""}",
+207,BAS_8,BAS,"",1,"If I see a chance to get something I want, I move on it right away.","{""1"": ""Strongly agree"", ""2"": ""Agree"", ""3"": ""Disagree"", ""4"": ""Strongly Disagree""}",
+208,BAS_9,BAS,"",1,"When I go after something, I use a 'no holds barred' approach.","{""1"": ""Strongly agree"", ""2"": ""Agree"", ""3"": ""Disagree"", ""4"": ""Strongly Disagree""}",
+209,BAS_10,BAS,"",1,I will often do things for no other reason than that they might be fun.,"{""1"": ""Strongly agree"", ""2"": ""Agree"", ""3"": ""Disagree"", ""4"": ""Strongly Disagree""}",
+210,BAS_11,BAS,"",1,I crave excitement and new sensations.,"{""1"": ""Strongly agree"", ""2"": ""Agree"", ""3"": ""Disagree"", ""4"": ""Strongly Disagree""}",
+211,BAS_12,BAS,"",1,I'm always willing to try something new if I think it will be fun.,"{""1"": ""Strongly agree"", ""2"": ""Agree"", ""3"": ""Disagree"", ""4"": ""Strongly Disagree""}",
+212,BAS_13,BAS,"",1,I often act on the spur of the moment.,"{""1"": ""Strongly agree"", ""2"": ""Agree"", ""3"": ""Disagree"", ""4"": ""Strongly Disagree""}",
+213,HEXAD_general_heading,HEXAD,"",1,User gaming profile type (HEXAD),{},
+214,HEXAD_general_description,HEXAD,"",1,"This questionnaire is about your user gaming profile type. In other words, what motivates you to play games or to interact with game-like systems.",{},
+205,BAS_6,BAS,"",1,"When I want something, I usually go all out to get it.","{""1"": ""Strongly agree"", ""2"": ""Agree"", ""3"": ""Disagree"", ""4"": ""Strongly Disagree""}",
+215,HEXAD_1,HEXAD,Philanthropist,5,It makes me happy if I am able to help others.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Somewhat disagree"", ""4"": ""Neither agree nor disagree"", ""5"": ""Somewhat agree"", ""6"": ""Agree"", ""7"": ""Strongly agree""}",
+216,HEXAD_2,HEXAD,Philanthropist,5,The well-being of others is important to me.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Somewhat disagree"", ""4"": ""Neither agree nor disagree"", ""5"": ""Somewhat agree"", ""6"": ""Agree"", ""7"": ""Strongly agree""}",
+217,HEXAD_3,HEXAD,Socializer,5,I like being part of a team.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Somewhat disagree"", ""4"": ""Neither agree nor disagree"", ""5"": ""Somewhat agree"", ""6"": ""Agree"", ""7"": ""Strongly agree""}",
+218,HEXAD_4,HEXAD,Socializer,5,I enjoy group activities.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Somewhat disagree"", ""4"": ""Neither agree nor disagree"", ""5"": ""Somewhat agree"", ""6"": ""Agree"", ""7"": ""Strongly agree""}",
+219,HEXAD_5,HEXAD,Free Spirit,5,I like mastering difficult tasks.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Somewhat disagree"", ""4"": ""Neither agree nor disagree"", ""5"": ""Somewhat agree"", ""6"": ""Agree"", ""7"": ""Strongly agree""}",
+220,HEXAD_6,HEXAD,Free Spirit,5,I enjoy emerging victorious out of difficult circumstances.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Somewhat disagree"", ""4"": ""Neither agree nor disagree"", ""5"": ""Somewhat agree"", ""6"": ""Agree"", ""7"": ""Strongly agree""}",
+221,HEXAD_7,HEXAD,Achiever,5,Rewards are a great way to motivate me.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Somewhat disagree"", ""4"": ""Neither agree nor disagree"", ""5"": ""Somewhat agree"", ""6"": ""Agree"", ""7"": ""Strongly agree""}",
+222,HEXAD_8,HEXAD,Achiever,5,"If the reward is sufficient, I will put in the effort.","{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Somewhat disagree"", ""4"": ""Neither agree nor disagree"", ""5"": ""Somewhat agree"", ""6"": ""Agree"", ""7"": ""Strongly agree""}",
+223,HEXAD_9,HEXAD,Disruptor,5,It is important to me to follow my own path.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Somewhat disagree"", ""4"": ""Neither agree nor disagree"", ""5"": ""Somewhat agree"", ""6"": ""Agree"", ""7"": ""Strongly agree""}",
+224,HEXAD_10,HEXAD,Disruptor,5,Being independent is important to me.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Somewhat disagree"", ""4"": ""Neither agree nor disagree"", ""5"": ""Somewhat agree"", ""6"": ""Agree"", ""7"": ""Strongly agree""}",
+225,HEXAD_11,HEXAD,Player,5,I see myself as a rebel.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Somewhat disagree"", ""4"": ""Neither agree nor disagree"", ""5"": ""Somewhat agree"", ""6"": ""Agree"", ""7"": ""Strongly agree""}",
+226,HEXAD_12,HEXAD,Player,5,I dislike following rules.,"{""1"": ""Strongly Disagree"", ""2"": ""Disagree"", ""3"": ""Somewhat disagree"", ""4"": ""Neither agree nor disagree"", ""5"": ""Somewhat agree"", ""6"": ""Agree"", ""7"": ""Strongly agree""}",
+227,BES_general_heading,BES,"",1,Binge eating scale (BES),{},
+228,BES_general_description,BES,"",1,This questionnaire is about your binge eating behaviour.,{},
+229,BES_general_question,BES,"",1,"Below are groups of statements about behavior, thoughts, and emotional states. Please indicate which statement in each group best describes how you feel.",{},
+230,BES_1,BES,"",1,"","{""1"": ""I don\u2019t feel self-conscious about my weight or body size when I\u2019m with others."", ""2"": ""I feel concerned about how I look to others, but it normally does not make me feel disappointed with myself."", ""3"": ""I do get self-conscious about my appearance and weight which makes me feel disappointed in myself."", ""4"": ""I feel very self-conscious about my weight and frequently, I feel intense shame and disgust for myself. I try to avoid social contacts because of my self-consciousness.""}",
+231,BES_2,BES,"",1,"","{""1"": ""I don\u2019t have any difficulty eating slowly in the proper manner."", ""2"": ""Although I seem to \u201cgobble down\u201d foods, I don\u2019t end up feeling stuffed because of eating too much."", ""3"": ""At times, I tend to eat quickly and then, I feel uncomfortably full afterwards."", ""4"": ""I have the habit of bolting down my food, without really chewing it. When this happens I usually feel uncomfortably stuffed because I\u2019ve eaten too much.""}",
+232,BES_3,BES,"",1,"","{""1"": ""I feel capable to control my eating urges when I want to."", ""2"": ""I feel like I have failed to control my eating more than the average person."", ""3"": ""I feel utterly helpless when it comes to feeling in control of my eating urges."", ""4"": ""Because I feel so helpless about controlling my eating I have become very desperate about trying to get in control.""}",
+233,BES_4,BES,"",1,"","{""1"": ""I don\u2019t have the habit of eating when I\u2019m bored."", ""2"": ""I sometimes eat when I\u2019m bored, but often I\u2019m able to \u201cget busy\u201d and get my mind off food."", ""3"": ""I have a regular habit of eating when I\u2019m bored, but occasionally, I can use some other activity to get my mind off eating."", ""4"": ""I have a strong habit of eating when I\u2019m bored. Nothing seems to help me break the habit.""}",
+234,BES_5,BES,"",1,"","{""1"": ""I\u2019m usually physically hungry when I eat something."", ""2"": ""Occasionally, I eat something on impulse even though I really am not hungry."", ""3"": ""I have the regular habit of eating foods, that I might not really enjoy, to satisfy a hungry feeling even though physically, I don\u2019t need the food."", ""4"": ""Although I\u2019m not physically hungry, I get a hungry feeling in my mouth that only seems to be satisfied when I eat a food, like a sandwich, that fills my mouth. Sometimes, when I eat the food to satisfy my mouth hunger, I then spit the food out so I won\u2019t gain weight.""}",
+235,BES_6,BES,"",1,"","{""1"": ""I don\u2019t feel any guilt or self-hate after I overeat."", ""2"": ""After I overeat, occasionally I feel guilt or self-hate."", ""3"": ""Almost all the time I experience strong guilt or self-hate after I overeat.""}",
+236,BES_7,BES,"",1,"","{""1"": ""I don\u2019t lose total control of my eating when dieting even after periods when I overeat."", ""2"": ""Sometimes when I eat a \u201cforbidden food\u201d on a diet, I feel like I \u201cblew it\u201d and eat even more."", ""3"": ""Frequently, I have the habit of saying to myself, \u201cI\u2019ve blown it now, why not go all the way\u201d when I overeat on a diet. When that happens I eat even more."", ""4"": ""I have a regular habit of starting strict diets for myself, but I break the diets by going on an eating binge. My life seems to be either a \u201cfeast\u201d or \u201cfamine.\u201d""}",
+237,BES_8,BES,"",1,"","{""1"": ""I rarely eat so much food that I feel uncomfortably stuffed afterwards."", ""2"": ""Usually about once a month, I eat such a quantity of food, I end up feeling very stuffed."", ""3"": ""I have regular periods during the month when I eat large amounts of food, either at mealtime or at snacks."", ""4"": ""I eat so much food that I regularly feel quite uncomfortable after eating and sometimes a bit nauseous.""}",
+238,BES_9,BES,"",1,"","{""1"": ""My level of calorie intake does not go up very high or go down very low on a regular basis."", ""2"": ""Sometimes after I overeat, I will try to reduce my caloric intake to almost nothing to compensate for the excess calories I\u2019ve eaten."", ""3"": ""I have a regular habit of overeating during the night. It seems that my routine is not to be hungry in the morning but overeat in the evening."", ""4"": ""In my adult years, I have had week-long periods where I practically starve myself. This follows periods when I overeat. It seems I live a life of either \u201cfeast or famine.\u201d""}",
+239,BES_10,BES,"",1,"","{""1"": ""I usually am able to stop eating when I want to. I know when \u201cenough is enough.\u201d"", ""2"": ""Every so often, I experience a compulsion to eat which I can\u2019t seem to control."", ""3"": ""Frequently, I experience strong urges to eat which I seem unable to control, but at other times I can control my eating urges."", ""4"": ""I feel incapable of controlling urges to eat. I have a fear of not being able to stop eating voluntarily.""}",
+240,BES_11,BES,"",1,"","{""1"": ""I don\u2019t have any problem stopping eating when I feel full."", ""2"": ""I usually can stop eating when I feel full but occasionally overeat leaving me feeling uncomfortably stuffed."", ""3"": ""I have a problem stopping eating once I start and usually I feel uncomfortably stuffed after I eat a meal."", ""4"": ""Because I have a problem not being able to stop eating when I want, I sometimes have to induce vomiting to relieve my stuffed feeling.""}",
+241,BES_12,BES,"",1,"","{""1"": ""I seem to eat just as much when I\u2019m with others (family, social gatherings) as when I\u2019m by myself."", ""2"": ""Sometimes, when I\u2019m with other persons, I don\u2019t eat as much as I want to eat because I\u2019m self-conscious about my eating."", ""3"": ""Frequently, I eat only a small amount of food when others are present, because I\u2019m very embarrassed about my eating."", ""4"": ""I feel so ashamed about overeating that I pick times to overeat when I know no one will see me. I feel like a \u201ccloset eater.\u201d""}",
+242,BES_13,BES,"",1,"","{""1"": ""I eat three meals a day with only an occasional between meal snack."", ""2"": ""I eat 3 meals a day, but I also normally snack between meals."", ""3"": ""When I am snacking heavily, I get in the habit of skipping regular meals."", ""4"": ""There are regular periods when I seem to be continually eating, with no planned meals.""}",
+243,BES_14,BES,"",1,"","{""1"": ""I don\u2019t think much about trying to control unwanted eating urges."", ""2"": ""At least some of the time, I feel my thoughts are pre-occupied with trying to control my eating urges."", ""3"": ""I feel that frequently I spend much time thinking about how much I ate or about trying not to eat anymore."", ""4"": ""It seems to me that most of my waking hours are pre-occupied by thoughts about eating or not eating. I feel like I\u2019m constantly struggling not to eat.""}",
+244,BES_15,BES,"",1,"","{""1"": ""I don\u2019t think about food a great deal."", ""2"": ""I have strong cravings for food but they last only for brief periods of time."", ""3"": ""I have days when I can\u2019t seem to think about anything else but food."", ""4"": ""Most of my days seem to be pre-occupied with thoughts about food. I feel like I live to eat.""}",
+245,BES_16,BES,"",1,"","{""1"": ""I usually know whether or not I\u2019m physically hungry. I take the right portion of food to satisfy me."", ""2"": ""Occasionally, I feel uncertain about knowing whether or not I\u2019m physically hungry. At these times it\u2019s hard to know how much food I should take to satisfy me."", ""3"": ""Even though I might know how many calories I should eat, I don\u2019t have any idea what is a \u201cnormal\u201d amount of food for me.""}",
+246,M_general_heading,M,"",1,Motivation questions (M),{},
+247,M_general_description,M,"",1,"This questionnaire is about your motivation. In other words, why you regulate what you eat.",{},
+248,M_general_question,M,"",1,Why do you regulate what you eat?,{},
+249,M_1,M,Intrinsic Motivation,5,It is fun to create meals that are good for my health,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+250,M_2,M,Intrinsic Motivation,3,I like to find new ways to create meals that are good for my health,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+251,M_3,M,Intrinsic Motivation,5,I take pleasure in fixing healthy meals,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+252,M_4,M,Intrinsic Motivation,7,For the satisfaction of eating healthy,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+253,M_5,M,Integrated Regulation,5,Eating healthy is an integral part of my life,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+254,M_6,M,Integrated Regulation,6,Eating healthy is part of the way I have chosen to live my life,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+255,M_7,M,Integrated Regulation,7,Regulating my eating behaviors has become a fundamental part of who I am,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+256,M_8,M,Integrated Regulation,3,Eating healthy is congruent with other important aspects of my life,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+257,M_9,M,Identified Regulation,2,I believe it will eventually allow me to feel better,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+258,M_10,M,Identified Regulation,1,I believe it’s a good thing I can do to feel better about myself in general,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+259,M_11,M,Identified Regulation,4,It is a good idea to try to regulate my eating behaviors,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+260,M_12,M,Identified Regulation,6,It is a way to ensure long-term health benefits,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+261,M_13,M,Introjected Regulation,3,I don’t want to be ashamed of how I look,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+262,M_14,M,Introjected Regulation,2,I feel I must absolutely be thin,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+263,M_15,M,Introjected Regulation,5,I would feel ashamed of myself if I was not eating healthy,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+264,M_16,M,Introjected Regulation,1,I would be humiliated I was not in control of my eating behaviors,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+265,M_17,M,External Regulation,1,Other people close to me insist that I do,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+266,M_18,M,External Regulation,1,Other people close to me will be upset if I don’t,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+267,M_19,M,External Regulation,6,People around me nag me to do it,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+268,M_20,M,External Regulation,7,It is expected of me,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+269,M_21,M,Amotivation,5,I don’t really know. I truly have the impression that I’m wasting my time trying to regulate my eating behaviors,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+270,M_22,M,Amotivation,4,I don’t know why I bother,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+271,M_23,M,Amotivation,3,I can’t really see what I’m getting out of it,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+272,M_24,M,Amotivation,2,I don’t know. I can’t see how my efforts to eat healthy are helping my health situation,"{""1"": ""Does not correspond at all"", ""2"": ""Corresponds very little"", ""3"": ""Corresponds a little"", ""4"": ""Corresponds moderately"", ""5"": ""Corresponds a bit"", ""6"": ""Corresponds a lot"", ""7"": ""Corresponds exactly""}",
+273,FQ_general_heading,FQ,"",1,Food Quantity (FQ),{},
+274,FQ_general_description,FQ,"",1,This question is about the quantity of your last meal.,{},
+275,FQ_1,FQ,"",1,"What was the quantity? Please specify the unit (grams, plats, cups, ...)",{},
+276,FT_general_heading,FT,"",1,Food Timing (FT),{},
+277,FT_general_description,FT,"",1,Those questions are about the timing of your last meal.,{},
+278,FT_1,FT,"",1,When did you eat it?,{},
+279,FT_2,FT,"",1,How long did you eat?,{},
+163,DEB_EX_25,DEB,"",1,"If food smells and looks good, do you eat more than usual?","{""1"": ""Never"", ""2"": ""Seldom"", ""3"": ""Sometimes"", ""4"": ""Often"", ""5"": ""Very often""}",
